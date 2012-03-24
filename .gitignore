@@ -1,0 +1,32 @@
+# git ignore file
+
+# Visual Studio
+[Dd]ebug/
+[Rr]elease/
+[Bb]in/
+obj/
+*.sln.cache
+*.suo
+*.csproj.user
+
+#Project files
+[Bb]uild/
+
+#Subversion files
+.svn
+
+# Resharper
+*.[Rr]e[Ss]harper
+*[Rr]e[Ss]harper.user
+*.[Dd]ot[Ss]ettings.user
+_ReSharper.*/
+[Tt]est[Rr]esult*
+
+# Office Temp Files
+~$*
+
+# NuGet Packages
+packages/
+
+#Doxygen
+Doxygen/
